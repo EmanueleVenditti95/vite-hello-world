@@ -3,7 +3,6 @@ import AppHero from './components/AppHero.vue'
 </script>
   
 <template>
-  <h1 class="title">La mia prima app con Vite!</h1>
   <AppHero />
 </template>
 
